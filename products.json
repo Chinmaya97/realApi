@@ -1,0 +1,41 @@
+[
+    {
+        "name": "iphone",
+        "price": "154",
+        "featured": "true",
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": "1354",
+        "featured": "true",
+        "company": "apple"
+    },
+    {
+        "name": "iphone11",
+        "price": "1054",
+        "company": "apple"
+    },
+    {
+        "name": "iphone12",
+        "price": "1754",
+        "company": "apple"
+    },
+    {
+        "name": "iphone13",
+        "price": "1584",
+        "company": "apple"
+    },
+    {
+        "name": "iphone14",
+        "price": "1554",
+        "company": "apple"
+    },
+    {
+        "name": "iphone15",
+        "price": "1154",
+        "company": "apple"
+    }
+    
+
+]
